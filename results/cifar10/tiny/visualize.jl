@@ -20,7 +20,7 @@ end
 
 df = Pandas.concat(dfs)
 
-Seaborn.seaborn.set(; font_scale=1.3)
+Seaborn.seaborn.set(; font_scale=1.5)
 
 df_melt = Pandas.melt(
     df;
