@@ -1,0 +1,4 @@
+[deps]
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Pandas = "eadc2687-ae89-51f9-a5d9-86b5a6373a9c"
+Seaborn = "d2ef9438-c967-53ab-8060-373fdd9e13eb"
